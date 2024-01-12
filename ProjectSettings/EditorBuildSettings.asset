@@ -6,7 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/HDRP/VFX/Samples/Butterflies/Butterflies.unity
+    path: Assets/Samples/Visual Effect Graph/Samples/Butterflies/Butterflies.unity
     guid: 6932026508c98594bbb83a63a56beccc
   - enabled: 1
     path: Assets/Scenes/HDRP.unity
