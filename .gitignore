@@ -26,6 +26,9 @@
 # Visual Studio cache directory
 .vs/
 
+# JetBrains Rider cache directory
+.idea/
+
 # Gradle cache directory
 .gradle/
 
@@ -46,6 +49,9 @@ ExportedObj/
 *.mdb
 *.opendb
 *.VC.db
+
+# Not exclude Nuget.csproj files
+!Nuget.csproj 
 
 # Unity3D generated meta files
 *.pidb.meta
